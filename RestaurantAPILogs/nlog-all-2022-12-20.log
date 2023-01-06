@@ -1,0 +1,5 @@
+2022-12-20 17:40:06.8749||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-20 17:40:06.8967||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-20 17:40:06.8967||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-20 17:40:06.8967||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-20 17:40:06.8967||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 

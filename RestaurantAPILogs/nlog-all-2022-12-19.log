@@ -1,0 +1,61 @@
+2022-12-19 18:21:37.2224||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 18:21:37.2738||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 18:21:37.2779||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 18:21:37.2779||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 18:21:37.2779||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 18:23:30.7367||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 5 DELETE action invoked 
+2022-12-19 18:23:41.3160||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 5 DELETE action invoked 
+2022-12-19 18:23:44.9716||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:45.8940||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:46.5374||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:47.0892||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:47.3228||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:51.1371||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 4 DELETE action invoked 
+2022-12-19 19:37:47.5372||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 19:37:47.5839||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 19:37:47.5839||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 19:37:47.5839||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 19:37:47.5839||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 19:39:20.9589||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 19:39:21.0112||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 19:39:21.0205||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 19:39:21.0205||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 19:39:21.0310||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 19:39:57.6556||INFO|RestaurantAPI.Middleware.RequestTimeMiddleware|Request [GET] at /api/restaurant/ took 30417 ms 
+2022-12-19 20:51:52.9173||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 20:51:52.9411||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 20:51:52.9411||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 20:51:52.9411||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 20:51:52.9411||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 20:55:24.1170||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 20:55:24.1351||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 20:55:24.1351||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 20:55:24.1351||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 20:55:24.1351||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 20:58:26.6178||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 20:58:26.6354||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 20:58:26.6354||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 20:58:26.6354||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 20:58:26.6354||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 21:02:16.7767||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 21:02:16.7939||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 21:02:16.7939||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 21:02:16.7951||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 21:02:16.7951||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 21:04:16.1948||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 21:04:16.2125||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 21:04:16.2125||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 21:04:16.2125||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 21:04:16.2125||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 22:45:13.2301||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 22:45:13.2486||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 22:45:13.2486||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 22:45:13.2486||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 22:45:13.2486||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 22:46:58.9771||INFO|Microsoft.Hosting.Lifetime|Application is shutting down... 
+2022-12-19 22:55:18.3377||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-19 22:55:18.3552||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-19 22:55:18.3552||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-19 22:55:18.3552||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-19 22:55:18.3552||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-19 22:56:50.8476||INFO|Microsoft.Hosting.Lifetime|Application is shutting down... 

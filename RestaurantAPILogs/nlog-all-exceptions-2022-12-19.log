@@ -1,0 +1,8 @@
+2022-12-19 18:23:30.7367||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 5 DELETE action invoked 
+2022-12-19 18:23:41.3160||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 5 DELETE action invoked 
+2022-12-19 18:23:44.9716||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:45.8940||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:46.5374||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:47.0892||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:47.3228||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 7 DELETE action invoked 
+2022-12-19 18:23:51.1371||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 4 DELETE action invoked 

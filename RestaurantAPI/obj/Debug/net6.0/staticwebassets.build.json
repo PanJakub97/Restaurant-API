@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jV8GxGQqPolyp8yDShRBHLxvq1uIZgTmy66ohM0/ZRo=",
+  "Source": "RestaurantAPI",
+  "BasePath": "_content/RestaurantAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestaurantAPI\\wwwroot",
+      "Source": "RestaurantAPI",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Kodowanie\\053_RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\wwwroot\\",
+      "BasePath": "_content/RestaurantAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Kodowanie\\053_RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\wwwroot\\sample-file.txt",
+      "SourceId": "RestaurantAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Kodowanie\\053_RestaurantAPI\\RestaurantAPI\\RestaurantAPI\\wwwroot\\",
+      "BasePath": "_content/RestaurantAPI",
+      "RelativePath": "sample-file.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample-file.txt"
+    }
+  ]
+}

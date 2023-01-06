@@ -1,0 +1,248 @@
+2022-12-30 00:09:10.0742||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:09:10.0925||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:09:10.0925||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:09:10.0925||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:09:10.0925||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:13:21.2090||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 1014 DELETE action invoked 
+2022-12-30 00:13:45.9552||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 1014 DELETE action invoked 
+2022-12-30 00:13:54.7732||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 1014 DELETE action invoked 
+2022-12-30 00:15:00.7536||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User: Jar with date of birth [12.05.1988 00:00:00] 
+2022-12-30 00:15:00.7536||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization succeded 
+2022-12-30 00:30:40.0779||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:30:40.0952||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:30:40.0952||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:30:40.0952||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:30:40.0952||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:31:33.6298||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:31:33.6506||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:31:33.6506||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:31:33.6506||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:31:33.6506||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:34:34.7087||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:34:34.7271||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:34:34.7271||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:34:34.7271||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:34:34.7271||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:35:57.2335||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:35:57.2524||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:35:57.2524||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:35:57.2524||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:35:57.2524||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:37:32.7769||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:37:32.7977||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:37:32.7977||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:37:32.7977||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:37:32.7977||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:37:44.5768||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:37:44.5959||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:37:44.5959||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:37:44.5959||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:37:44.5959||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:39:22.9912||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:39:23.0085||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:39:23.0085||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:39:23.0085||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:39:23.0085||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:45:35.3487||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:45:35.3671||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:45:35.3671||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:45:35.3671||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:45:35.3671||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:46:29.8241||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User: Jar with date of birth [12.05.1988 00:00:00] 
+2022-12-30 00:46:29.8241||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization succeded 
+2022-12-30 00:50:04.7072||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:50:04.7249||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:50:04.7249||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:50:04.7249||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:50:04.7249||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:51:18.7941||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:51:18.8186||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:51:18.8186||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:51:18.8186||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:51:18.8186||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:51:33.8480||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:51:33.8700||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:51:33.8700||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:51:33.8700||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:51:33.8700||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:55:24.2338||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:55:24.2527||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:55:24.2527||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:55:24.2527||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:55:24.2527||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:58:02.3897||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:58:02.4087||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:58:02.4087||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:58:02.4087||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:58:02.4087||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:58:16.2441||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:58:16.2622||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:58:16.2643||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:58:16.2643||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:58:16.2643||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 00:59:18.2804||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 00:59:18.2977||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 00:59:18.2977||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 00:59:18.2977||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 00:59:18.2977||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 01:00:02.2224||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 01:00:02.2404||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 01:00:02.2404||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 01:00:02.2404||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 01:00:02.2404||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 01:02:28.8821||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User: Jar with date of birth [12.05.1988 00:00:00] 
+2022-12-30 01:02:28.8821||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization succeded 
+2022-12-30 01:02:42.4976||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|User: Jar with date of birth [12.05.1988 00:00:00] 
+2022-12-30 01:02:42.4981||INFO|RestaurantAPI.Authorization.MinimumAgeRequirementHandler|Authorization succeded 
+2022-12-30 01:04:28.6093||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 01:04:28.6282||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 01:04:28.6282||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 01:04:28.6282||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 01:04:28.6282||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 22:50:30.6400||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 22:50:30.6867||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 22:50:30.7066||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 22:50:30.7066||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 22:50:30.7066||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 22:52:10.1152||ERROR|RestaurantAPI.Middleware.ErrorHandlingMiddleware|An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'. System.InvalidOperationException: An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at lambda_method150(Closure )
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.VisitBinary(BinaryExpression binaryExpression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExtractParameters(Expression query, IParameterValues parameterValues, IDiagnosticsLogger`1 logger, Boolean parameterize, Boolean generateContextAccessors)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at RestaurantAPI.Services.RestaurantService.GetAll(String searchPhrase) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Services\RestaurantService.cs:line 105
+   at RestaurantAPI.Controllers.RestaurantController.GetAll(String searchPhrase) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Controllers\RestaurantController.cs:line 81
+   at lambda_method20(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at RestaurantAPI.Middleware.RequestTimeMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Middleware\RequestTimeMiddleware.cs:line 21
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass6_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at RestaurantAPI.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Middleware\ErrorHandlingMiddleware.cs:line 22
+2022-12-30 22:54:15.5041||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 22:54:15.5471||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 22:54:15.5471||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 22:54:15.5471||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 22:54:15.5471||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 22:56:18.4078||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 22:56:18.4525||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 22:56:18.4550||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 22:56:18.4550||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 22:56:18.4550||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:25:14.7417||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:25:14.7875||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:25:14.7875||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:25:14.7875||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:25:14.7875||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:36:17.7702||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:36:17.8163||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:36:17.8163||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:36:17.8163||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:36:17.8163||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:40:40.2388||ERROR|RestaurantAPI.Middleware.ErrorHandlingMiddleware|The offset specified in a OFFSET clause may not be negative. Microsoft.Data.SqlClient.SqlException (0x80131904): The offset specified in a OFFSET clause may not be negative.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Read()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at RestaurantAPI.Services.RestaurantService.GetAll(RestaurantQuery query) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Services\RestaurantService.cs:line 105
+   at RestaurantAPI.Controllers.RestaurantController.GetAll(RestaurantQuery query) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Controllers\RestaurantController.cs:line 81
+   at lambda_method20(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at RestaurantAPI.Middleware.RequestTimeMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Middleware\RequestTimeMiddleware.cs:line 21
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass6_1.<<UseMiddlewareInterface>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at RestaurantAPI.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI\Middleware\ErrorHandlingMiddleware.cs:line 22
+ClientConnectionId:ed542622-5d9f-4fb7-b6b3-34093dc16adb
+Error Number:10742,State:1,Class:15
+2022-12-30 23:42:14.9635||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:42:15.0066||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:42:15.0066||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:42:15.0066||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:42:15.0066||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:44:40.5414||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:44:40.5866||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:44:40.5866||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:44:40.5866||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:44:40.5866||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:46:08.2575||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:46:08.3003||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:46:08.3003||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:46:08.3003||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:46:08.3003||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:47:39.2745||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:47:39.3135||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:47:39.3135||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:47:39.3135||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:47:39.3135||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:50:34.2246||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:50:34.2671||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:50:34.2671||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:50:34.2671||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:50:34.2671||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:54:11.4383||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:54:11.4836||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:54:11.4836||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:54:11.4836||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:54:11.4836||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
+2022-12-30 23:54:53.9834||INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001 
+2022-12-30 23:54:54.0234||INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000 
+2022-12-30 23:54:54.0234||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-30 23:54:54.0234||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-30 23:54:54.0234||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Kodowanie\053_RestaurantAPI\RestaurantAPI\RestaurantAPI 
